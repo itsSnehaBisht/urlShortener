@@ -10,12 +10,12 @@
     font-size: 3.5rem;
     font-family: sans-serif; 
     font-weight: bold;
-    color: #fff;
+    color: #bcb8b8;
     margin-bottom: 1.5rem;
 }
 
 .inputContainer h1 span {
-    color: #f99f38;
+    color: #59fb82;
 }
 
 .inputContainer div {
@@ -47,7 +47,7 @@
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
     color: #fff;
-    background-color: #f99f38;
+    background-color: #59fb82;
     border: none;
     cursor: pointer;
 }
@@ -63,7 +63,7 @@
 .result p {
     color: #fff;
     border: 1px solid;
-    border-color: #f99f38;
+    border-color: #59fb82;
     padding: 0.5rem 1rem;
     margin-right: 1rem;
 }
@@ -72,13 +72,13 @@
     padding: 0.5rem 1rem;
     color: #fff;
     cursor: pointer;
-    background: #f99f38;
+    background: #59fb82;
     border: none;
 }
 
 .result button.copied{
     background: #fff;
-    color: #f99f38;
+    color: #59fb82;
 }
 
 .noData {
