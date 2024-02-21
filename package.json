@@ -1,7 +1,7 @@
 {
   "name": "miniurls",
   "version": "0.1.0",
-  "homepage": "http://itsSnehaBisht.github.io/urlShortener",
+  "homepage": "https://itsSnehaBisht.github.io/urlShortener",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
